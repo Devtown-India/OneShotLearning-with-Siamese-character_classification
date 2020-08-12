@@ -31,8 +31,8 @@ added siamese.ipynb file
 
 
 ### Aug 12
-creating dataset for my model
-done Data augmentation and Resize of images 
-added data_aug.ipynb + resize.ipynb file
+collected more images .
+done with  Data augmentation and Resize of images 
+added data_aug.ipynb (resize of data)
 
 
