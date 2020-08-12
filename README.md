@@ -11,7 +11,7 @@ Scrapped data using selenium and collected few samples of data.
 Added img_scrape.ipynb file
 
 ### Aug 8
-Watched You_Tube videos regarding One shot learning
+Saw videos on You_Tube releted One shot learning
 link: Deeplearning.ai(coursera) = https://www.youtube.com/watch?v=96b_weTZb2w&t=4s
 link: https://www.youtube.com/watch?v=H4MPIWX6ftE
 
