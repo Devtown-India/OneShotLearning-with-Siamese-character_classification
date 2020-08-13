@@ -36,3 +36,5 @@ done with  Data augmentation and Resize of images
 added data_aug.ipynb (resize of data)
 
 
+### Aug 13
+learning opencv
