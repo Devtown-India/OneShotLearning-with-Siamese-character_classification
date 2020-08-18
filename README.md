@@ -38,3 +38,7 @@ added data_aug.ipynb (resize of data)
 
 ### Aug 13
 learning opencv
+
+### Aug 16
+detected face using one-shot learning 
+uploaded .py file + result.png
