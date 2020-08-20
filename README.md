@@ -43,6 +43,6 @@ learning opencv
 detected face using one-shot learning 
 uploaded .py file + result.png
 
-###Aug 20
+### Aug 20
 Deployment of flask
 getting errors  while deployment . plese check camera.py and main.py file
