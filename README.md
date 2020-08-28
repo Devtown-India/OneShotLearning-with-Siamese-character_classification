@@ -46,5 +46,10 @@ uploaded .py file + result.png
 ### Aug 20
 Deployment of flask
 
-###aug 22
-app sucessfully working on local system ,getting issue at cloud deployments.
+### Aug 22
+app sucessfully working on local system
+
+### Aug 23
+For Heoku im getting R14 memory issue ,so i tried with Pivotal cloud foundry (its providing 2.5gb space free)
+but im getting error at  the time of webcam.
+
