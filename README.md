@@ -45,4 +45,6 @@ uploaded .py file + result.png
 
 ### Aug 20
 Deployment of flask
-getting errors  while deployment . plese check camera.py and main.py file
+
+###aug 22
+app sucessfully working on local system ,getting issue at cloud deployments.
